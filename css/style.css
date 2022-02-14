@@ -1,0 +1,84 @@
+/*Header*/
+
+.div1,
+.div2,
+.div3 {
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav-li,
+.nav-li2,
+.nav-li3,
+.nav-li4 {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 27px;
+	font-size: 20px;
+}
+.div1 {
+	margin-right: 92px;
+}
+
+}
+.div3 {
+	margin-left: 40px;
+}
+.container {
+	margin-left: 18px;
+	margin-top: 18px;
+}
+.img1 {
+	width: 70px;
+}
+
+/*First Section*/
+
+.section-div1 {
+	width: 360px;
+	background-color: white;
+	display: inline-block;
+}
+.section-div3 {
+	width: 360px;
+	background-color: white;
+	display: inline-block;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+.section-div4 {
+	width: 360px;
+	background-color: white;
+	display: inline-block;
+}
+.section-div2 {
+	width: 360px;
+	margin: 0 auto;
+	margin-top: 66px;
+	background-color: white;
+	display: inline-block;
+}
+.sec-p1 {
+	background-color: #FFFFFF;
+	width: 280px;
+	margin: 0 auto;
+	color: #A6ADB4;
+}
+.container2 {
+	width: 1160px;
+	margin: 0 auto;
+	margin-top: 31px;
+}
+.trending {
+	margin-bottom: 40px;
+}
+.sec-img {
+	position: relative;
+	color: red;
+}
+.div-img {
+	position: absolute;
+	top: 28px;
+	left: 40px;
+	height: 16px;
+	width: 280px;
+}

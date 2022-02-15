@@ -70,6 +70,7 @@
 }
 .trending {
 	margin-bottom: 40px;
+	font-size: 20px;
 }
 .sec-img {
 	position: relative;
@@ -82,3 +83,49 @@
 	height: 16px;
 	width: 280px;
 }
+
+/*Section 2. div1*/
+
+.sec2div1 {
+	width: 760px;
+	height: 900px;
+}
+
+.bridge-img-div {
+	width: 760px;
+	height: 430px;
+	position: relative;
+	margin-bottom: 40px;
+
+}
+.bridge-text-div {
+	height: 16px;
+	width: 280px;
+	position: absolute;
+	bottom: 20px;
+	right: 20px;
+}
+.sec2p1 {
+	color: yellow;
+}
+
+/*section 2. div2*/
+
+.sec2div2 {
+	width: 360px;
+	height: 896px;
+}
+.img3div {
+	height: 210px;
+	width: 360px;
+	position: relative;
+}
+.sec2p1-div {
+	width: 280px;
+	height: 16px;
+	position: absolute;
+	top: 18px;
+	left: 40px;
+}
+
+

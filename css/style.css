@@ -15,6 +15,7 @@
 	margin-right: 27px;
 	font-size: 20px;
 }
+
 .div1 {
 	margin-right: 92px;
 }
@@ -89,6 +90,9 @@
 .sec2div1 {
 	width: 760px;
 	height: 900px;
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 40px;
 }
 
 .bridge-img-div {
@@ -114,6 +118,9 @@
 .sec2div2 {
 	width: 360px;
 	height: 896px;
+	display: inline-block;
+	vertical-align: top;
+
 }
 .img3div {
 	height: 210px;
@@ -126,6 +133,21 @@
 	position: absolute;
 	top: 18px;
 	left: 40px;
+}
+
+.sec2div2img2 {
+	display: inline-block;
+	margin-top: 102px;
+	margin-bottom: 102px;
+}
+.container3 {
+	width: 1160px;
+	margin: 0 auto;
+	margin-top: 118px;
+}
+.sec2h2 {
+	margin-bottom: 40px;
+	font-size: 20px;
 }
 
 
